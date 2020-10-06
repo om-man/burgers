@@ -1,9 +1,6 @@
-steak
-tomates
-cheese
-oignons
-cornichons
-ketchup
-moutarde
-
-Il n’y a pas de tomates dans le doublecheese !
+steak bio
+cheese bio
+oignons bio
+cornichons bio
+ketchup bio
+moutarde bio
